@@ -1,4 +1,4 @@
-## Rshiny_WeatherForecast_ETL
+## Rshiny_ETL_WeatherInfo
 
 #### Check out the app @ https://eagleye3192.shinyapps.io/Rshiny_ETL_WeatherInfo/
 
